@@ -2,8 +2,7 @@
 
 This is my first machine learning project where I built a model to predict house prices using real-world data.
 
-## What I did:
-
+## What did I do 
 * Data cleaning (handled missing values)
 * Feature selection (X and y split)
 * Train/test split
